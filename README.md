@@ -8,7 +8,7 @@ What if PlayStation Classic, but with a game library that's actually fun to play
 
 # BACKUP YOUR SYSTEM!!!
 
-By editing the lolhack.sh you can enable partial or full backup/restore of your system.
+By editing the "lolhack.sh" you can enable partial or full backup/restore of your system.
 
 You can backup or restore your system by replacing "lolhack.sh" by "backup.sh" or "restore.sh" (the file must be renamed "lolhack.sh" to work)
 
@@ -49,10 +49,10 @@ You will need at least the files listed below for each game (use the "21" sample
 * pcsx.cfg (you can use the file provided in the "21" sample folder in every game)
 
 # Running:
-Put everything onto an empty USB drive (FAT32) named SONY, plug the USB drive into the port 2 and power cycle the system (remove the power plug and reatach). If everything worked fine, you should see your custom game in the menu.
+Put everything onto an empty USB drive (FAT32) named "SONY", plug the USB drive into the port 2 and power cycle the system (remove the power plug and reatach). If everything worked fine, you should see your custom game in the menu.
 
 # NOTES:
-If you don't want to/don't know how to edit the database file, you can just replace the empty SCUS-99999.cue and SCUS-94426.bin files from this repo with your game (just make sure you keep the same name for the files) and it should work somewhat fine. This will limit adding just one game that uses only one disc on the "21" folder.
+If you don't want to/don't know how to edit the database file, you can just replace the empty SCUS-99999.cue and SCUS-99999.bin files from this repo with your game (just make sure you keep the same name for the files) and it should work somewhat fine. This will limit adding just one game that uses only one disc on the "21" folder.
 
 # UPDATES:
 You can now access the PCSX menu by pressing [select] + [triangle] on your control pad.
