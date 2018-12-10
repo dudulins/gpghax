@@ -2,10 +2,6 @@
 
 >Disclaimer: THIS CAN BRICK YOUR CONSOLE. Don't use if you don't understand every piece of how it works. Most of the new code in lolhack.sh could not be tested due to unavailable hardware to do so.
 
-This uses lolhack, a payload launcher created by madmonkey.
-
-What if PlayStation Classic, but with a game library that's actually fun to play?
-
 # BACKUP YOUR SYSTEM!!!
 
 By editing the "lolhack.sh" you can enable partial or full backup/restore of your system.
@@ -64,4 +60,7 @@ It is possible to overmount the original games folder and show only the games on
 A new file (lolhack_template.sh) was added to be the base of a GUI to make the process of backup/restore the system and adding/removing games easier.
 
 # Credits:
-madmonkey, DanTheMan827, skogaby, justMaku, dudulins
+
+This uses lolhack, a payload launcher created by madmonkey.
+
+Additional contribution: DanTheMan827, skogaby, justMaku, dudulins
