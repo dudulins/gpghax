@@ -2,13 +2,9 @@
 
 >Disclaimer: THIS CAN BRICK YOUR CONSOLE. Don't use if you don't understand every piece of how it works. Most of the new code in lolhack.sh could not be tested due to unavailable hardware to do so.
 
-This uses lolhack, a payload launcher created by madmonkey.
-
-What if PlayStation Classic, but with a game library that's actually fun to play?
-
 # BACKUP YOUR SYSTEM!!!
 
-By editing the lolhack.sh you can enable partial or full backup/restore of your system.
+By editing the "lolhack.sh" you can enable partial or full backup/restore of your system.
 
 You can backup or restore your system by replacing "lolhack.sh" by "backup.sh" or "restore.sh" (the file must be renamed "lolhack.sh" to work)
 
@@ -50,7 +46,7 @@ You will need at least the files listed below for each game (use the "21" sample
 
 
 # Running:
-Put everything onto an empty USB drive (FAT32) named SONY, plug the USB drive into the port 2 and power cycle the system (remove the power plug and reatach). If everything worked fine, you should see your custom game in the menu.
+Put everything onto an empty USB drive (FAT32) named "SONY", plug the USB drive into the port 2 and power cycle the system (remove the power plug and reatach). If everything worked fine, you should see your custom game in the menu.
 
 
 # Uninstall:
@@ -72,7 +68,7 @@ If you brick your system or want to uninstall the hack just follow the steps bel
 
 
 # NOTES:
-If you don't want to/don't know how to edit the database file, you can just replace the empty SCUS-99999.cue and SCUS-94426.bin files from this repo with your game (just make sure you keep the same name for the files) and it should work somewhat fine. This will limit adding just one game that uses only one disc on the "21" folder.
+If you don't want to/don't know how to edit the database file, you can just replace the empty SCUS-99999.cue and SCUS-99999.bin files from this repo with your game (just make sure you keep the same name for the files) and it should work somewhat fine. This will limit adding just one game that uses only one disc on the "21" folder.
 
 
 # UPDATES:
@@ -95,4 +91,7 @@ Backup the original games database before replacing it.
 
 
 # Credits:
-madmonkey, DanTheMan827, skogaby, justMaku, dudulins
+
+This uses lolhack, a payload launcher created by madmonkey.
+
+Additional contribution: DanTheMan827, skogaby, justMaku, dudulins
