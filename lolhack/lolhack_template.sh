@@ -52,7 +52,7 @@ killall -s KILL sonylogo sonyapp ui_menu
 	done
 
 	#replace games db (need a interface to create regional.db)
-	cp /media/lolhack/databases/regional.db /gaadata/databases/regional.db
+	cp /media/lolhack/databases/custom.db /gaadata/databases/regional.db
 
 
 ###[REPLACE_ORIGINAL_GAMES]###

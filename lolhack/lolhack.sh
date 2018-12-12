@@ -36,7 +36,7 @@ for D in *; do
 done
 
 #replace games db (need a interface to create regional.db)
-cp /media/lolhack/databases/regional.db /gaadata/databases/regional.db
+cp /media/lolhack/databases/custom.db /gaadata/databases/regional.db
 
 
 #overmount the original games (replace original games; it will not rewrite original games; game folder needs to start with 1; what happens if I start to name the folders with 21? need an interface like hackchi to add games and create regional.db)
